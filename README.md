@@ -5,6 +5,7 @@ This project explores patterns and trends in credit card usage using both Python
 
 ---
 
+
 ## 📁 Project Structure
 
 - `Credit card Usage.ipynb`: Python notebook for data preprocessing, cleaning, and exploratory data analysis (EDA).
